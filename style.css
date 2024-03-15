@@ -123,10 +123,6 @@ img {
 
 /* Reusable Components */
 
-section {
-    padding: 3.125rem 0;
-}
-
 /* End Reusable Components */
 
 /* Custom Classes */
@@ -161,6 +157,43 @@ section {
     color: #CFED25 !important;
     background-color: #fff !important;
     border-radius: 3.125rem !important;
+}
+
+.errbody {
+    color: black;
+    font-weight: bold !important;
+    font-size: 6vw !important;
+}
+
+.reg-below {
+    color: #000000;
+    font-weight: 800;
+    font-size: 3vw !important;
+    line-height: normal !important;
+    margin-top: -3rem;
+}
+
+.square {
+    position: absolute;
+    margin-top: 6rem;
+    margin-left: 23rem;
+    background: #1047ff;
+    width: 70%;
+    height: 70%;
+  }
+
+.fart-pts {
+    color: #FF3333;
+    font-weight: 800;
+    font-size: 3vw !important;
+}
+
+.wif {
+    padding-bottom: 5rem !important;
+}
+
+.pepe-sad {
+    background-color: #eeeeee;
 }
 
 /* End Custom Classes */
@@ -205,10 +238,6 @@ section {
     overflow-x: hidden;
 }
 
-.hero-left {
-    margin-top: 6.25rem;
-}
-
 .rounded-icon {
     border-radius: 1.25rem;
     box-shadow: 0 0 3.75rem #00000015;
@@ -239,14 +268,6 @@ section {
 /* Manage Section */
 .item-image img {
     width: 5rem !important;
-}
-
-.food-items p {
-    line-height: 1 !important;
-}
-
-.screen {
-    display: none;
 }
 
 /* End Manage Section */
