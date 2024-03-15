@@ -180,7 +180,14 @@ img {
     background: #1047ff;
     width: 70%;
     height: 70%;
-  }
+}
+
+.token {
+    position: absolute;
+    right: -10px;
+    bottom: 40px;
+    width: 100px;
+}
 
 .fart-pts {
     color: #FF3333;
