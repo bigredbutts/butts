@@ -210,7 +210,7 @@ img {
 .reg-below {
     color: #000000;
     font-weight: 800;
-    font-size: 3vw !important;
+    font-size: 3rem !important;
     line-height: normal !important;
     margin-top: -3rem;
 }
@@ -312,6 +312,34 @@ img {
 }
 
 /* End Hero Section Styling */
+
+.email-form {
+    position: relative;
+}
+
+.email-form input {
+    border: 6px black solid;
+    border-radius: 20px;
+    border-top-width: thin;
+    border-left-width: thin;
+    height: 4rem;
+    padding: 10px;
+    color: black;
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.email-form button {
+    border: 0px;
+    width: 16rem;
+    background: transparent;
+    position: absolute;
+    top: 0rem;
+    right: -6rem;
+}
 
 #plan .container {
     position: relative;
