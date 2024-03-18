@@ -223,13 +223,8 @@ img {
 .twitter-cta p {
     color: #000000;
     font-weight: 800;
-    font-size: 3vw !important;
+    font-size: 3rem !important;
     line-height: normal !important;
-}
-
-.twitter-cta .x-logo {
-    width: 3rem;
-    height: 3rem;
 }
 
 
@@ -252,7 +247,7 @@ img {
 .fart-pts {
     color: #FF3333;
     font-weight: 800;
-    font-size: 3vw !important;
+    font-size: 3rem !important;
 }
 
 .wif {
